@@ -2,6 +2,8 @@
 
 ## Description
 
+this project is written in golang which generates a folder inside which there are sub-folders each named after predefined programming languages  name, inside each sub-folder is file named after main folder with that particular programming language extension.
+
 ## build
 `$ go build src/subAuto.go`
 
